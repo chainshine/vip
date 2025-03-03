@@ -3630,7 +3630,7 @@ ul.tabs li.active {
     padding: 16px;
   }
   .vip_page .btn_login {
-    background-image: url("../img/login.jpg");
+    background-image: url("./img/login.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center bottom;
